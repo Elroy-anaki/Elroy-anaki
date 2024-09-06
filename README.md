@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hello, I'm Elroy Anaki 👋<br>🎓 I'm currently studying programming 📚.<br><br>🎸 I love playing the guitar and the piano 🎹.<br><br>🔗 You can find me here:<br><br>LinkedIn<br>Email<br>🚀 I'm interested in science fiction and always eager to learn more about it.<br>😊 Thanks for visiting my profile! 😊
+Hello, I'm Elroy Anaki 👋<br>🎓 I'm currently studying programming 📚.<br><br>🎸 I love playing the guitar and the piano 🎹.<br><br>🚀 I'm interested in science fiction and always eager to learn more about it.<br>😊 Thanks for visiting my profile! 😊
 
 
 ## 🌐 Socials:
